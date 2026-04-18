@@ -119,7 +119,7 @@ Access is protected by a **developer authentication code.** Do not try to guess 
 
 *You scroll. Events appear. You learn things. Remarkable.*
 
-![Timeline Scroll](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Timeline Scroll](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0Ym8zc2prNjAxb2t2bm1rbHMydjlwNmJtdnZ5aHB0cGZ3eDd6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysEE4T5KemMjZjcPXP/giphy.gif)
 
 ---
 
@@ -127,7 +127,7 @@ Access is protected by a **developer authentication code.** Do not try to guess 
 
 *Click. Read. Understand. Or don't. This is a judgment-free zone — unlike the TVA.*
 
-![Event Click Animation](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Event Click Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlucXZ5dmlkcngycjlrNWloYW0xbDBudXdhdW9naGtwYmJ5NzJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exBEqYRbNIuoAxA2xi/giphy.gif)
 
 ---
 
@@ -135,7 +135,7 @@ Access is protected by a **developer authentication code.** Do not try to guess 
 
 *Dark. Dramatic. Exactly as intended.*
 
-![Futuristic Interface](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Futuristic Interface](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajUyempodG1teXQybGF0cmUyOWloczBqeXhhdnhmbmdkYm5oc3hzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEzIybPweuY1pV9CAE/giphy.gif)
 
 ---
 
