@@ -29,7 +29,7 @@ Just like Loki navigating the multiverse — *except you probably won't get prun
 
 ---
 
-![Loki Clapping](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW81cXhkcTNweGhpNmE3d29ydHE2anVxZW5mMzZsNnA3czc4cnIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrD9UMHMxlT2wkWHmn/giphy.gif)
+![Loki Clapping](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZmY2ZsdjNhaHR4Nmx5MzZ1eGVscWFydGNreWVhaHp6N3RkYXUyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKegydk0Fzfn7KFevq/giphy.gif)
 
 *"Finally, a project worthy of my attention. Don't push it."*
 
@@ -107,7 +107,7 @@ Access is protected by a **developer authentication code.** Do not try to guess 
 
 ---
 
-![Loki Magic](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZmNjZoYmI0aDNiY3VmdjRpMW0xbTd4ZTNqNmZ0eGRhcm9idmRhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap3gY/giphy.gif)
+![Loki Magic](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0Ym8zc2prNjAxb2t2bm1rbHMydjlwNmJtdnZ5aHB0cGZ3eDd6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysEE4T5KemMjZjcPXP/giphy.gif)
 
 *The UI loading. Probably.*
 
