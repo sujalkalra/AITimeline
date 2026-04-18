@@ -1,4 +1,4 @@
-![loki](https://i.pinimg.com/originals/7c/8a/53/7c8a53a0fe5672cf2f509183ed005eb4.gif)
+![loki](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhncGltdGVvY2Q2YThjcmNxNXZoN3Jzd3lhaDhoZW5wZWo0YWplYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VlrRiZAur3jylN2XKT/giphy.gif)
 
 
 # 🌀 AITimeline
