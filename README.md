@@ -291,7 +291,7 @@ Sound familiar?
 
 ---
 
-![Loki Smirk](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg1czRkZ3AxN3FrdjllcThpMnBiNG16MnhndGlwemZvM3E3cGtpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf2JHNV0Tq3zFK0/giphy.gif)
+![Loki Smirk](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0Ym8zc2prNjAxb2t2bm1rbHMydjlwNmJtdnZ5aHB0cGZ3eDd6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysEE4T5KemMjZjcPXP/giphy.gif)
 
 ---
 
