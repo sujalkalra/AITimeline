@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #323437; /* Dark slate gray */
+  --foreground: #d1d0c5; /* Soft white / cream */
+  
+  --primary: #e2b714; /* Bright yellow */
+  --primary-foreground: #323437;
+  
+  --secondary: #2c2e31; /* Darker flat background for pills/inputs */
+  --secondary-foreground: #d1d0c5;
+  
+  --accent: #ca4754; /* Error red */
+  --accent-foreground: #d1d0c5;
+  
+  --muted: #323437;
+  --muted-foreground: #646669; /* Muted text */
+  
+  --card: #2c2e31;
+  --card-foreground: #d1d0c5;
+  
+  --border: #2c2e31; /* Flat borders if needed */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-border: var(--border);
+
+  --font-mono: var(--font-jetbrains-mono), monospace;
+  --font-sans: var(--font-jetbrains-mono), monospace; /* completely force monospace */
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-mono);
+  overflow-x: hidden; 
+}
+
+::selection {
+  background: var(--primary);
+  color: var(--background);
+}
+
+/* Custom scrollbar for webkit */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--muted-foreground);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
+
+/* Base resets for inputs and buttons */
+input, textarea, select {
+  outline: none;
+  font-family: inherit;
+}
+button {
+  font-family: inherit;
+  outline: none;
+}
