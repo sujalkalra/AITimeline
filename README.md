@@ -1,3 +1,6 @@
+![Uploading image.png…]()](https://i.pinimg.com/originals/7c/8a/53/7c8a53a0fe5672cf2f509183ed005eb4.gif)
+
+
 # 🌀 AITimeline
 ### *"Glorious Purpose: Witness the Evolution of Intelligence — Whether You Deserve To Or Not."*
 
