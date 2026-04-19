@@ -1,4 +1,5 @@
 import Timeline from "@/components/Timeline";
+import FooterReviews from "@/components/FooterReviews";
 import dbConnect from "@/lib/mongoose";
 import Event from "@/models/Event";
 import { Network } from "lucide-react";
@@ -88,12 +89,8 @@ export default async function Home() {
       {/* The Timeline Canvas */}
       <Timeline events={events} />
       
-      {/* Footer / End Section */}
-      <section className="w-full h-screen flex flex-col items-center justify-center border-t border-secondary">
-        <h2 className="text-3xl font-mono text-foreground">
-          to be continued...
-        </h2>
-      </section>
+      {/* Footer / Review Section */}
+      <FooterReviews />
     </main>
   );
 }
